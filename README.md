@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akundak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in playing guitar
+- 🌱 I’m currently learning spanish
+- 💞️ I’m looking to collaborate on issues related to Devops
 - 📫 How to reach me +905497728681
 
 <!---
